@@ -1,0 +1,63 @@
+Final Score:
+Player Score:	2
+Computer Score:	0
+Final Score:
+Player Score:	0
+Computer Score:	1
+Final Score:
+Player Score:	0
+Computer Score:	2
+Final Score:
+Player Score:	1
+Computer Score:	2
+Final Score:
+Player Score:	1
+Computer Score:	0
+Final Score:
+Player Score:	2
+Computer Score:	0
+Final Score:
+Player Score:	2
+Computer Score:	1
+Final Score:
+Player Score:	1
+Computer Score:	0
+Final Score:
+Player Score:	2
+Computer Score:	0
+Final Score:
+Player Score:	3
+Computer Score:	0
+Final Score:
+Player Score:	1
+Computer Score:	0
+Final Score:
+Player Score:	2
+Computer Score:	0
+Final Score:
+Player Score:	2
+Computer Score:	1
+Final Score:
+Player Score:	0
+Computer Score:	0
+Final Score:
+Player Score:	0
+Computer Score:	0
+Final Score:
+Player Score:	0
+Computer Score:	1
+Final Score:
+Player Score:	0
+Computer Score:	2
+Final Score:
+Player Score:	0
+Computer Score:	0
+Final Score:
+Player Score:	0
+Computer Score:	0
+Final Score:
+Player Score:	0
+Computer Score:	0
+Final Score:
+Player Score:	0
+Computer Score:	1
